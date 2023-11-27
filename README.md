@@ -20,17 +20,15 @@ _Django (DRF)_
 - `pip install -r requirements.txt`
 
 *Переменные окружения:*
-- Библиотека *python-dotenv*. Очень удобная и практичная в использовании.
-
-  1. Создайте файл `.env` и внесите ваши данные 
-  2. Переменные:
-      - `SECRET_KEY`
-      - `DATABASE_NAME`
-      - `DATABASE_PORT`
-      - `DATABASE_USER`
-      - `DATABASE_PASSWORD`
-      - `DATABASE_HOST`
-      - `DATABASE_ENGINE`
+1. Библиотека *python-dotenv*. Создайте файл `.env` и внесите ваши данные 
+2. Переменные:
+    - `SECRET_KEY`
+    - `DATABASE_NAME`
+    - `DATABASE_PORT`
+    - `DATABASE_USER`
+    - `DATABASE_PASSWORD`
+    - `DATABASE_HOST`
+    - `DATABASE_ENGINE`
 
 ## Для запуска проекта и проверки ендпоинтов:
 
