@@ -17,10 +17,10 @@ _Django (DRF)_
    - Python-dotenv
 
 > Установите библиотеки:
-`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 
 *Переменные окружения:*
-Библиотека *python-dotenv*. Очень удобная и практичная в использовании.
+- Библиотека *python-dotenv*. Очень удобная и практичная в использовании.
 
 1. Создайте файл `.env` и внесите ваши данные 
 2. Переменные:
@@ -60,7 +60,7 @@ _Django (DRF)_
    - Современный простой фейкер пользовательского агента с реальной базой данныx
 
 > Установите библиотеки:
-`pip install -r requirements.txt`
+- `pip install -r requirements.txt`
 
 ## Class Test
 
